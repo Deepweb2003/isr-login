@@ -484,7 +484,7 @@ form .buttons button , .backBtn{
     .footer .footer-center,
     .footer .footer-right {
       display: block;
-      width: 100%;
+      width: 100%; 
       margin-bottom: 40px;
       text-align: center;
     }
